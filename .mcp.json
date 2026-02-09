@@ -24,9 +24,9 @@
     },
       "shrimp-task-manager": {
       "command": "node",
-      "args": ["C:/Users/SJA Church/hsh_practice/mcp-shrimp-task-manager/dist/index.js"],
+      "args": ["C:/Windows/hsh/mcp-shrimp-task-manager/dist/index.js"],
       "env": {
-        "DATA_DIR": "C:/Users/SJA Church/hsh_practice/nextjs-supadb_test/shrimp_data",
+        "DATA_DIR": "C:/Windows/hsh/nextjs-supadb/shrimp-task",
         "TEMPLATES_USE": "en",
         "ENABLE_GUI": "false"
       }
